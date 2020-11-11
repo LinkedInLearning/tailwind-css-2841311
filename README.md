@@ -1,9 +1,8 @@
 # COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![course-name-alt-text][lil-thumbnail-url] 
+This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind.css` . The full course is available from [LinkedIn Learning][https://www.linkedin.com/learning/instructors/ray-villalobos].
 
 _See the readme file in the main branch for updated instructions and information._
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 

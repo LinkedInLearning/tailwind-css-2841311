@@ -1,5 +1,5 @@
 # COURSENAME
-This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind.css` . The full course is available from [LinkedIn Learning][https://www.linkedin.com/learning/instructors/ray-villalobos].
+This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind.css` . The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).
 
 _See the readme file in the main branch for updated instructions and information._
 

@@ -1,0 +1,17 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Repository for my course on Tailwind CSS",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Ray Villalobos",
+  "dependencies": {
+    "autoprefixer": "^10.0.4",
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.1.14",
+    "tailwindcss": "^2.0.1"
+  }
+}

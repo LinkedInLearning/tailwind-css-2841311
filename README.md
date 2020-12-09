@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind.css` . The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).
+# Modern Web App Design with Tailwind CSS
+This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind CSS`. The full course is available from [LinkedIn Learning][https://www.linkedin.com/learning/instructors/ray-villalobos?u=104].
 
 _See the readme file in the main branch for updated instructions and information._
 
@@ -12,13 +12,14 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+  - [PostCSS](https://postcss.org/) Plugin
+  - [npm, npx](https://nodejs.org/en/) Node Package Manager
+  - [Git](https://git-scm.com/) version control
+  - [Gulp](https://gulpjs.com/)
+  - [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=cpylua.language-postcss)
+  - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+  - [Tailwind Docs](https://marketplace.visualstudio.com/items?itemName=austenc.tailwind-docs)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+3. Slides for this course are available at https://raybo.org/slides_tailwind
 
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
 

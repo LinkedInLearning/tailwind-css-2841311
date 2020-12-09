@@ -546,6 +546,12 @@ video {
   height: auto;
 }
 
+h1 {
+  color: #00bff3;
+  font-size: 3.75rem;
+  line-height: 1;
+}
+
 .container {
   width: 100%;
 }

@@ -1,5 +1,5 @@
-# Modern Web App Design with Tailwind CSS
-This is the repository for the LinkedIn Learning course `Modern Web App Design with Tailwind CSS`. The full course is available from [LinkedIn Learning][https://www.linkedin.com/learning/instructors/ray-villalobos?u=104].
+# Tailwind CSS Essential Training
+This is the repository for the LinkedIn Learning course `Tailwind CSS Essential Training`. The full course is available from [LinkedIn Learning][https://www.linkedin.com/learning/instructors/ray-villalobos?u=104].
 
 _See the readme file in the main branch for updated instructions and information._
 

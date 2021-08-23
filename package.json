@@ -1,0 +1,15 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Course Demo for Tailwind CSS",
+  "scripts": {
+    "start": "tailwindcss -o ./build/css/styles.css --watch"
+  },
+  "author": "Ray Villalobos",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}

@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    color: salmon;
+    @apply mt-24 text-5xl px-6 font-extrabold tracking-tight;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply active:bg-gray-500
+      hover:bg-gray-500
+      hover:text-white cursor-pointer
+      border-gray-500
+      border-4
+      rounded-md
+      inline-block
+      p-2
+      mt-2
+      mb-4;
+  }
+
+  .btn-royal {
+    @apply hover:bg-purple-500
+    border-purple-500;
+  }
+
+  .btn-angry {
+    @apply hover:bg-red-500
+    border-red-500;
+  }
+}

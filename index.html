@@ -6,20 +6,27 @@
     <link rel="stylesheet" href="build/css/styles.css" />
     <title>Tailwind CSS</title>
   </head>
-  <body>
+  <body class="selection:bg-yellow-200">
     <!-- Content Starts Here -->
 
     <div class="text-center container mx-auto">
-      <h1>About Binaryville</h1>
+      <h1 class="before:content-['❤️‍🔥'] before:block">About Binaryville</h1>
       <img class="w-32 mx-auto" src="http://pixelprowess.com/i/powship.svg" alt="POW Ship" />
-      <p class="mt-4 px-6 text-[19px] text-gray-500 mx-auto">
+      <p class="first-line:text-4xl mt-4 px-6 text-[19px] text-gray-500 mx-auto">
         On the edge of the world stands the progressive town of Binaryville, where technology is a way of life. The robots who live, work, and play in
         Binaryville learn from an early age that magic is made simply by combining 0's and 1's. For the Binaryville robots, every waking thought and
         every sleeping dream is consumed with unique permutations…and endless possibilities.
       </p>
       <div class="btn btn-angry">More info</div>
     </div>
-
+    <div class="mx-auto w-16">
+      <h2 class="text-2xl font-bold text-purple-600 mt-4">Cast</h2>
+      <ol>
+        <li class="first-of-type:font-bold first-of-type:text-red-500">Red</li>
+        <li class="first-of-type:font-bold first-of-type:text-red-500 empty:bg-yellow-200" contenteditable="true"></li>
+        <li class="first-of-type:font-bold first-of-type:text-red-500">Bubbles</li>
+      </ol>
+    </div>
     <!-- Content Ends Here -->
   </body>
 </html>
